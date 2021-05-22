@@ -1,0 +1,91 @@
+{
+	margin: 0;
+	padding:0;
+	background-color: red;
+}
+header{
+	height :60px;
+	background: yellow;
+	padding: 0 50px;
+}
+.CUSTOM{
+	width: 30%;
+	float: left;
+	color: black;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 60px;
+	font-size: 35px;
+	font-family: sans-serif;
+}
+nav{
+	width: 68%;
+	float: right;
+}
+nav ul {
+	list-style: none;
+	float: right;
+}
+nav ul li {
+display: inline-block;
+}
+nav ul li a {
+text-decoration: none;
+color: black;
+font-family:sans-serif;
+font-weight:bold;
+margin:0 10px;
+line-height:60px;
+text-transform:uppercase;
+}
+.banner{
+	height: 100%;
+}
+.banner img{
+	width: 40%;
+	height: 60%;
+}
+.content {
+	padding: 1%;
+}
+.content p{
+font-size: 18px;
+line-height: 1.7;
+font-family: sans-serif;
+margin-bottom: 25px;
+color: white;
+}
+h1{
+	color: white;
+}
+h3{
+	color:white;
+	font-size: 25px;
+}
+ul li{
+	color:white;
+	font-size: 18px;
+}
+ol li{
+	color:white;
+	font-size: 18px;
+}
+td{
+	color: white;
+}
+.Motor img{
+	width: 20%;
+	height: 40%;
+}
+bdo{
+	font-size: 12px;
+}
+footer {
+	background: yellow;
+	color: black;
+	padding: 15px 50px;
+	text-align: center;
+}
+h4{
+	color: black;
+}
